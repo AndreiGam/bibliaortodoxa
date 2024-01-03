@@ -1,0 +1,406 @@
+{
+    "Vechiul Testament": {
+        "1": {
+            "nume": "Întâia Carte a lui Moise",
+            "abr": "Fc",
+            "titlu": "Facerea"
+        },
+        "2": {
+            "nume": "A doua Carte a lui Moise",
+            "abr": "Ies",
+            "titlu": "Ieşirea"
+        },
+        "3": {
+            "nume": "A treia Carte a lui Moise",
+            "abr": "Lv",
+            "titlu": "Leviticul"
+        },
+        "4": {
+            "nume": "A patra Carte a lui Moise",
+            "abr": "Num",
+            "titlu": "Numerii"
+        },
+        "5": {
+            "nume": "A cincea Carte a lui Moise",
+            "abr": "Dt",
+            "titlu": "Deuteronomul"
+        },
+        "6": {
+            "nume": "",
+            "abr": "Ios",
+            "titlu": "Iosua Navi"
+        },
+        "7": {
+            "nume": "",
+            "abr": "Jd",
+            "titlu": "Cartea Judecătorilor"
+        },
+        "8": {
+            "nume": "",
+            "abr": "Rut",
+            "titlu": "Rut"
+        },
+        "9": {
+            "nume": "Cartea întâi a Regilor",
+            "abr": "1Rg",
+            "titlu": "I Regi"
+        },
+        "10": {
+            "nume": "Cartea a doua a Regilor",
+            "abr": "2Rg",
+            "titlu": "II Regi"
+        },
+        "11": {
+            "nume": "Cartea a treia a Regilor",
+            "abr": "3Rg",
+            "titlu": "III Regi"
+        },
+        "12": {
+            "nume": "Cartea a patra a Regilor",
+            "abr": "4Rg",
+            "titlu": "IV Regi"
+        },
+        "13": {
+            "nume": "Cartea întâi a Cronicilor",
+            "abr": "1Par",
+            "titlu": "I Paralipomena"
+        },
+        "14": {
+            "nume": "Cartea a doua a Cronicilor",
+            "abr": "2Par",
+            "titlu": "II Paralipomena"
+        },
+        "15": {
+            "nume": "Cartea întâi a lui Ezdra",
+            "abr": "1Ezr",
+            "titlu": "I Ezdra"
+        },
+        "16": {
+            "nume": "Cartea a doua a lui Ezdra",
+            "abr": "Ne",
+            "titlu": "Neemia"
+        },
+        "17": {
+            "nume": "",
+            "abr": "Est",
+            "titlu": "Estera"
+        },
+        "18": {
+            "nume": "",
+            "abr": "Iov",
+            "titlu": "Iov"
+        },
+        "19": {
+            "nume": "",
+            "abr": "Ps",
+            "titlu": "Psalmii"
+        },
+        "20": {
+            "nume": "Pildele lui Solomon",
+            "abr": "Pr",
+            "titlu": "Proberbe"
+        },
+        "21": {
+            "nume": "",
+            "abr": "Ecc",
+            "titlu": "Ecclesiastul"
+        },
+        "22": {
+            "nume": "Cântarea Cântărilor",
+            "abr": "Cant",
+            "titlu": "Cântări"
+        },
+        "23": {
+            "nume": "",
+            "abr": "Is",
+            "titlu": "Isaia"
+        },
+        "24": {
+            "nume": "",
+            "abr": "Ir",
+            "titlu": "Ieremia"
+        },
+        "25": {
+            "nume": "Plângerile lui Ieremia",
+            "abr": "Plg",
+            "titlu": "Plangeri"
+        },
+        "26": {
+            "nume": "",
+            "abr": "Iz",
+            "titlu": "Iezechiel"
+        },
+        "27": {
+            "nume": "",
+            "abr": "Dn",
+            "titlu": "Daniel"
+        },
+        "28": {
+            "nume": "",
+            "abr": "Os",
+            "titlu": "Osea"
+        },
+        "29": {
+            "nume": "",
+            "abr": "Am",
+            "titlu": "Amos"
+        },
+        "30": {
+            "nume": "",
+            "abr": "Mi",
+            "titlu": "Miheia"
+        },
+        "31": {
+            "nume": "",
+            "abr": "Ioil",
+            "titlu": "Ioil"
+        },
+        "32": {
+            "nume": "",
+            "abr": "Avd",
+            "titlu": "Avdie"
+        },
+        "33": {
+            "nume": "",
+            "abr": "Ion",
+            "titlu": "Iona"
+        },
+        "34": {
+            "nume": "",
+            "abr": "Naum",
+            "titlu": "Naum"
+        },
+        "35": {
+            "nume": "",
+            "abr": "Avc",
+            "titlu": "Avacum"
+        },
+        "36": {
+            "nume": "",
+            "abr": "Sof",
+            "titlu": "Sofonie"
+        },
+        "37": {
+            "nume": "",
+            "abr": "Ag",
+            "titlu": "Agheu"
+        },
+        "38": {
+            "nume": "",
+            "abr": "Za",
+            "titlu": "Zaharia"
+        },
+        "39": {
+            "nume": "",
+            "abr": "Mal",
+            "titlu": "Maleahi"
+        },
+        "40": {
+            "nume": "",
+            "abr": "Tob",
+            "titlu": "Tobit"
+        },
+        "41": {
+            "nume": "",
+            "abr": "Idt",
+            "titlu": "Iudita"
+        },
+        "42": {
+            "nume": "",
+            "abr": "Bar",
+            "titlu": "Baruh"
+        },
+        "43": {
+            "nume": "",
+            "abr": "Epist",
+            "titlu": "Epistola lui Ieremia"
+        },
+        "44": {
+            "nume": "Cântarea celor trei tineri",
+            "abr": "Tin",
+            "titlu": "3 tineri"
+        },
+        "45": {
+            "nume": "Cartea a treia a lui Ezdra",
+            "abr": "3Ezr",
+            "titlu": "III Ezdra"
+        },
+        "46": {
+            "nume": "Cartea înțelepciunii lui Solomon",
+            "abr": "Sol",
+            "titlu": "Solomon"
+        },
+        "47": {
+            "nume": "Cartea înțelepciunii lui Isus, fiul lui Sirah",
+            "abr": "Sir",
+            "titlu": "Sirah (Ecclesiasticul)"
+        },
+        "48": {
+            "nume": "Istoria Susanei",
+            "abr": "Sus",
+            "titlu": "Susanei"
+        },
+        "49": {
+            "nume": "Istoria omorârii balaurului și a sfărâmării lui Bel",
+            "abr": "Bel",
+            "titlu": "Bel şi Balaurul"
+        },
+        "50": {
+            "nume": "Cartea întâi a Macabeilor",
+            "abr": "1Mac",
+            "titlu": "I Macabei"
+        },
+        "51": {
+            "nume": "Cartea a doua a Macabeilor",
+            "abr": "2Mac",
+            "titlu": "II Macabei"
+        },
+        "52": {
+            "nume": "Cartea a treia a Macabeilor",
+            "abr": "3Mac",
+            "titlu": "III Macabei"
+        },
+        "53": {
+            "nume": "Rugăciunea regelui Manase",
+            "abr": "Man",
+            "titlu": "Manase"
+        }
+    },
+    "Noul Testament": {
+        "54": {
+            "nume": "Sfânta Evanghelie după Matei",
+            "abr": "Mt",
+            "titlu": "Matei"
+        },
+        "55": {
+            "nume": "Sfânta Evanghelie după Marcu",
+            "abr": "Mc",
+            "titlu": "Marcu"
+        },
+        "56": {
+            "nume": "Sfânta Evanghelie după Luca",
+            "abr": "Lc",
+            "titlu": "Luca"
+        },
+        "57": {
+            "nume": "Sfânta Evanghelie după Ioan",
+            "abr": "In",
+            "titlu": "Ioan"
+        },
+        "58": {
+            "nume": "",
+            "abr": "FA",
+            "titlu": "Faptele Sfinților Apostoli"
+        },
+        "59": {
+            "nume": "Ep. către Romani a Sf. Ap. Pavel",
+            "abr": "Rm",
+            "titlu": "Romani"
+        },
+        "60": {
+            "nume": "Ep. I către Corinteni a Sf. Ap. Pavel",
+            "abr": "1Co",
+            "titlu": "I Corinteni"
+        },
+        "61": {
+            "nume": "Ep. II către Corinteni a Sf. Ap. Pavel",
+            "abr": "2Co",
+            "titlu": "II Corinteni"
+        },
+        "62": {
+            "nume": "Ep. către Galateni a Sf. Ap. Pavel",
+            "abr": "Ga",
+            "titlu": "Galateni"
+        },
+        "63": {
+            "nume": "Ep. către Efeseni a Sf. Ap. Pavel",
+            "abr": "Ef",
+            "titlu": "Efeseni"
+        },
+        "64": {
+            "nume": "Ep. către Filipeni a Sf. Ap. Pavel",
+            "abr": "Flp",
+            "titlu": "Filipeni"
+        },
+        "65": {
+            "nume": "Ep. către Coloseni a Sf. Ap. Pavel",
+            "abr": "Col",
+            "titlu": "Coloseni"
+        },
+        "66": {
+            "nume": "Ep. I către Tesaloniceni a Sf. Ap. Pavel",
+            "abr": "1Tes",
+            "titlu": "I Tesaloniceni"
+        },
+        "67": {
+            "nume": "Ep. II către Tesaloniceni a Sf. Ap. Pavel",
+            "abr": "2Tes",
+            "titlu": "II Tesaloniceni"
+        },
+        "68": {
+            "nume": "Ep. I către Timotei a Sf. Ap. Pavel",
+            "abr": "1Tim",
+            "titlu": "I Timotei"
+        },
+        "69": {
+            "nume": "Ep. II către Timotei a Sf. Ap. Pavel",
+            "abr": "2Tim",
+            "titlu": "II Timotei"
+        },
+        "70": {
+            "nume": "Ep. către Tit a Sf. Ap. Pavel",
+            "abr": "Tit",
+            "titlu": "Tit"
+        },
+        "71": {
+            "nume": "Ep. către Filimon a Sf. Ap. Pavel",
+            "abr": "Flm",
+            "titlu": "Filimon"
+        },
+        "72": {
+            "nume": "Ep. către Evrei a Sf. Ap. Pavel",
+            "abr": "Evr",
+            "titlu": "Evrei"
+        },
+        "73": {
+            "nume": "Ep. Sobornicească a Sf. Ap. Iacov",
+            "abr": "Iac",
+            "titlu": "Iacov"
+        },
+        "74": {
+            "nume": "I-a Ep. Sobornicească a Sf. Ap. Petru",
+            "abr": "1Ptr",
+            "titlu": "I Petru"
+        },
+        "75": {
+            "nume": "A doua Ep. Sobornicească a Sf. Ap. Petru",
+            "abr": "2Ptr",
+            "titlu": "II Petru"
+        },
+        "76": {
+            "nume": "I-a Ep. Sobornicească a Sf. Ap. Ioan",
+            "abr": "1In",
+            "titlu": "I Ioan"
+        },
+        "77": {
+            "nume": "A doua Ep. Sobornicească a Sf. Ap. Ioan",
+            "abr": "2In",
+            "titlu": "II Ioan"
+        },
+        "78": {
+            "nume": "A treia Ep. Sobornicească a Sf. Ap. Ioan",
+            "abr": "3In",
+            "titlu": "III Ioan"
+        },
+        "79": {
+            "nume": "Ep. Sobornicească a Sf. Ap. Iuda",
+            "abr": "Iuda",
+            "titlu": "Iuda"
+        },
+        "80": {
+            "nume": "Apocalipsa Sf. Ioan Teologul",
+            "abr": "Ap",
+            "titlu": "Apocalipsa"
+        }
+    }
+}
